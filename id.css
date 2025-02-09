@@ -1,0 +1,18 @@
+.blue{
+    color:rgb(228, 19, 123);
+
+}
+.bg-yellow{
+    color: azure;
+}
+
+#firstdiv{
+    background-color: aqua;
+
+}
+#firstspan{
+    background-color:rgb(208, 173, 147); 
+}
+
+/* . is for while you are trying to decorate class */
+/* # is for while you are trying to decorate id */
